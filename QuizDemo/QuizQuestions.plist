@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>1</string>
+		<key>question</key>
+		<string>When does the GDPR go into effect?</string>
+		<key>optionA</key>
+		<string>January 1, 2018</string>
+		<key>optionB</key>
+		<string>May 1, 2018</string>
+		<key>optionC</key>
+		<string>May 25, 2018</string>
+		<key>answer</key>
+		<string>May 25, 2018</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2</string>
+		<key>question</key>
+		<string>Which of the following does the GDPR apply to?</string>
+		<key>optionA</key>
+		<string>Any organisation anywhere in the world that provides services into the EU that involve processing the data of EU citizens.</string>
+		<key>optionB</key>
+		<string>Only organisations within the EU that provide services into the EU that involve processing the data of EU citizens.</string>
+		<key>optionC</key>
+		<string>The processing of data by the direction of law enforcement, national security, or activities carried out by individuals purely for personal/household purposes.</string>
+		<key>answer</key>
+		<string>Any organisation anywhere in the world that provides services into the EU that involve processing the data of EU citizens.</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>3</string>
+		<key>question</key>
+		<string>What could happen if a business does not comply with the GDPR?</string>
+		<key>optionA</key>
+		<string>Fines of up to 20 million euros.</string>
+		<key>optionB</key>
+		<string>Four percent of annual global turnover.</string>
+		<key>optionC</key>
+		<string>Both a and b.</string>
+		<key>answer</key>
+		<string>Both a and b.</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4</string>
+		<key>question</key>
+		<string>Which of the following data is prohibited under the GDPR?</string>
+		<key>optionA</key>
+		<string>Religious beliefs</string>
+		<key>optionB</key>
+		<string>Sexual orientation</string>
+		<key>optionC</key>
+		<string>Both a and b.</string>
+		<key>answer</key>
+		<string>Both a and b.</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>5</string>
+		<key>question</key>
+		<string>Which of the following is considered personal data?</string>
+		<key>optionA</key>
+		<string>IP addresses</string>
+		<key>optionB</key>
+		<string>Only an individual’s name</string>
+		<key>optionC</key>
+		<string>Only an individual’s address</string>
+		<key>answer</key>
+		<string>IP addresses</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>6</string>
+		<key>question</key>
+		<string>What must you do if you offer an ‘information society service’ to children?</string>
+		<key>optionA</key>
+		<string>Verify the individuals’ ages.</string>
+		<key>optionB</key>
+		<string>Ensure that you obtain consent from the parent or guardian.</string>
+		<key>optionC</key>
+		<string>Both a and b.</string>
+		<key>answer</key>
+		<string>Both a and b.</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7</string>
+		<key>question</key>
+		<string>Which of the following is not true about the right to be informed?</string>
+		<key>optionA</key>
+		<string>You can charge up to 5 euros to individuals who request information about processing personal data.</string>
+		<key>optionB</key>
+		<string>The information about processing personal data must be concise.</string>
+		<key>optionC</key>
+		<string>Both a and b</string>
+		<key>answer</key>
+		<string>You can charge up to 5 euros to individuals who request information about processing personal data.</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8</string>
+		<key>question</key>
+		<string>Once an individual has requested access to her data, it must be provided within this amount of time.</string>
+		<key>optionA</key>
+		<string>One year</string>
+		<key>optionB</key>
+		<string>One month</string>
+		<key>optionC</key>
+		<string>One day</string>
+		<key>answer</key>
+		<string>One month</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>9</string>
+		<key>question</key>
+		<string>This gives the individual the right to remove his/her personal data from an organisation.</string>
+		<key>optionA</key>
+		<string>The right to be forgotten</string>
+		<key>optionB</key>
+		<string>The right to rectify</string>
+		<key>optionC</key>
+		<string>The right to erasure</string>
+		<key>answer</key>
+		<string>The right to erasure</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>10</string>
+		<key>question</key>
+		<string>This means individuals can obtain and reuse their data for their own purposes.</string>
+		<key>optionA</key>
+		<string>The right to data portability</string>
+		<key>optionB</key>
+		<string>The right to rectify</string>
+		<key>optionC</key>
+		<string>The right to erasure</string>
+		<key>answer</key>
+		<string>The right to data portability</string>
+	</dict>
+</array>
+</plist>
